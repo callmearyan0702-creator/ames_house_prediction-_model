@@ -1,9 +1,7 @@
 
 import streamlit as st
 import pandas as pd
-import numpy as np
 import pickle
-import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Ames Housing Price Predictor", page_icon="🏠", layout="wide")
 
