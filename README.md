@@ -2,6 +2,8 @@
 
 A machine learning project that predicts residential property prices using the Ames Housing Dataset. The project includes data preprocessing, exploratory data analysis (EDA), model training, hyperparameter tuning, and deployment through an interactive Streamlit web application.
 
+🚀 Live Demo:https://ameshouseprediction-model-kxcar8hre2mcodstzfodap.streamlit.app/
+
 ## 📌 Project Overview
 
 House price prediction is a supervised machine learning regression problem where the goal is to estimate the market value of a property based on its characteristics.
